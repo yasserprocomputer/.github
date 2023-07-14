@@ -4,6 +4,10 @@
 
 [yasserprocomputer](https://www.youtube.com/@yasserprocomputer/featured) is a YouTube channel made by **yasserprogamer** to make computer content on it such as malware, programming, ethical hacking, and other videos related to computers. All for educational purposes.
 
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+yasserprocomputer.;Please+subscribe+to+my+YouTube+channel;I+love+Computer+science.">
+</div>
+
 ## 💵 Support
 
 I would appreciate your support while I am a small creator. It will mean to me a lot!
